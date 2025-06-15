@@ -90,7 +90,7 @@ Below are screenshots showcasing the final results in the Airflow UI and the fro
 
 **Frontend Application:**
 
-![Frontend Main View](frontend.png)
+![Frontend Main View](Frontend.png)
 
 
 ## Reflection
