@@ -1,0 +1,7 @@
+apache-airflow-providers-mysql
+apache-airflow-providers-postgres
+pandas
+numpy
+psycopg2-binary
+pymysql
+python-dotenv
