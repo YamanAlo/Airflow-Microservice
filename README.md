@@ -1,4 +1,5 @@
-# Homework 2 
+# Retail Sales ETL Pipeline
+
 
 This project sets up a development environment using Docker Compose, including Apache Airflow, PostgreSQL, MySQL, a Python backend API, and a React frontend.
 
